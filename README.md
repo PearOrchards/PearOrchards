@@ -16,7 +16,7 @@ Education isn't everything, but it's a good place to start learning things. So h
   - Software Engineering in an Industrial Practice (2,0)
 - 🇬🇧 Aston University - Computer Science BSc (22-26)
   - Internet Applications and Database Design (89%)
-  - Software Engineering (93%)
+  - Software Project Management (97%)
 
 ## Contact
 If you'd like to get in touch, feel free to email me at pear@orchards.dev
